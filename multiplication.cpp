@@ -204,7 +204,7 @@ int main() {
 		free(c);
 		//free(rc);
 	}
-
+printf("hello github!");
 	return 0;
 
 }
